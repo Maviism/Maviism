@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on non profit organization
-- - 🌱 I’m currently learning Web development, AI/Maching Learning
+- 🌱 I’m currently learning Web development, AI/Maching Learning
