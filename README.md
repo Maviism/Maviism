@@ -94,7 +94,7 @@ Here are the top 5 projects I have been actively developing and contributing to 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maviism&theme=tokyonight" alt="Maviism's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maviism&theme=tokyonight&starting_year=2025" alt="Maviism's Streak Stats" />
 </p>
 
 ---
