@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="github_profile_banner.jpg" width="100%" alt="Muadz Header" />
+  <img src="github_header_banner.jpg" width="100%" alt="Muadz Header" />
 </p>
 
 <p align="center">
