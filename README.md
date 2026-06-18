@@ -15,7 +15,7 @@
 
 I am a **Full-stack Web Developer** passionate about optimizing system performance and building modern, high-quality applications. I love leveraging state-of-the-art tech stacks like **Next.js**, **Astro**, **Laravel**, and **Cloudflare ecosystem** to build systems that solve real-world problems.
 
-- 🔭 Currently active in developing open-source and organizational platforms.
+- 🔭 Currently active in freelancing and developing organizational platforms.
 - 🌱 Currently learning Rust, web technologies, and AI/Machine Learning.
 - ⚡ Fun fact: I enjoy building automated tools (like WhatsApp bots and PDF helpers) to streamline daily workflows.
 
@@ -47,7 +47,6 @@ Here are the top 5 projects I have been actively developing and contributing to 
       <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Inertia.js-9553E8?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
-      <br />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/D3.js-F9A03F?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3.js" />
@@ -59,7 +58,6 @@ Here are the top 5 projects I have been actively developing and contributing to 
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <br />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -74,7 +72,6 @@ Here are the top 5 projects I have been actively developing and contributing to 
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <br />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
